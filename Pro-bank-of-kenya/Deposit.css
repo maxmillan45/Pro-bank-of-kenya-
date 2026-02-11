@@ -1,0 +1,114 @@
+nav {
+    background-color: #003366;
+    padding: 10px;
+    text-align: right;
+
+   
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px; 
+}
+nav a:hover {
+    text-decoration: underline;
+    scale: 150;
+}
+
+
+
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+body {
+    width: 100%;
+  font-family: Arial, sans-serif;
+  background: #f1f5f9;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.bank-container {
+  background: #ffffff;
+  padding: 30px;
+  width: 350px;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+  text-align: center;
+}
+
+.bank-container h2 {
+  margin-bottom: 20px;
+}
+
+.balance {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #2563eb;
+}
+
+.form-group {
+  margin-bottom: 15px;
+  text-align: left;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 600;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+button {
+  flex: 1;
+  padding: 10px;
+  border: none;
+  border-radius: 6px;
+  background: #2563eb;
+  color: white;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+button:hover {
+  background: #1e40af;
+}
+
+button.withdraw {
+  background: #dc2626;
+}
+
+button.withdraw:hover {
+  background: #991b1b;
+}
+
+#message {
+  margin-top: 15px;
+  font-weight: 600;
+}
+.bank-container {
+    width: 80%;
+    margin: auto;
+}
+

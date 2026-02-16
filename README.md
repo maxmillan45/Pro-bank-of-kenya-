@@ -29,15 +29,6 @@ HTML5
 
 CSS3 / Tailwind CSS
 
-JavaScript
-
-Backend (if implemented)
-
-Node.js / PHP / Python
-
-Database
-
-MySQL / PostgreSQL / MongoDB
 
  User Interface & Experience
 
@@ -62,8 +53,6 @@ banking-system/
 ├── loan.html
 ├── css/
 │   └── styles.css
-├── js/
-│   └── script.js
 └── README.md
  Security Features
 

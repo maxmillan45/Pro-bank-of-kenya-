@@ -1,4 +1,4 @@
-Banking System Application
+Pro-bank-of-kenya
 
 A modern web-based Banking System designed to allow users to perform financial transactions, apply for loans, deposit and withdraw funds, and manage their accounts securely and efficiently.
 
@@ -102,4 +102,4 @@ This project is licensed under the MIT License.
 
  Author
 
-Developed by Maxmillan Njue Pro-bank-of-knya
+Developed by Maxmillan Njue 

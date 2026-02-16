@@ -81,10 +81,6 @@ AI-powered financial insights
 With the rapid growth of digital banking and financial technology solutions, this application aligns with the increasing demand for secure and user-friendly online banking platforms.
  Installation & Usage
 
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
 Navigate to the project folder:
 
 cd banking-system
